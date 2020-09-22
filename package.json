@@ -1,0 +1,14 @@
+{
+  "name": "appcardno",
+  "version": "1.0.0",
+  "description": "This is app create an api generates a unique value that contained 15 digits of any numbers (0-9)",
+  "main": "app.js",
+  "scripts": {
+    "test": "Error: no test and exit 1"
+  },
+  "author": "Tam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
