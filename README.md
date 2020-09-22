@@ -1,5 +1,16 @@
+**Tech/framework used**
+Typescript
+NodeJs
+ExpressJs
+
+**Installation**
+$ npm install
+
 **Run Demo**
 node app.js
 
-**Get CardNO**
+**API Get CardNO**
 localhost:3000/cardno
+
+**Test**
+Tam Doan
